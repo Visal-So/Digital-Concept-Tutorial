@@ -4,5 +4,6 @@
 * By fault, VS Code is automatically installed under C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code.
 
 #### [Home](https://github.com/Visal-So/Digital-Concept-Tutorial/blob/main/README.md)
+#### [About VS]
 
 ![](https://github.com/Visal-So/Digital-Concept-Tutorial/blob/main/Images/VS%20Code%20Install.png)
